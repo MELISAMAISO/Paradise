@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123905114043",
+    "project_id": "paradise-d9227",
+    "storage_bucket": "paradise-d9227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123905114043:android:c88d2c2f8ca9396d504e9e",
+        "android_client_info": {
+          "package_name": "com.melisa.paradise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATaDHnIwuKSqdiMAFgR3UCGQCGsDelQp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
